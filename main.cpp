@@ -1,4 +1,9 @@
 //Benyam Samson, COSC 1437-58001, October 17, 2019
+//Teacher: Dr. Tyson McMillan
+//School: Tarrant County College Trinity River Campus
+//Purpose of the Assignment: A program that calculates different physical properties based on user input.
+//Skills Learned: The usage of ANSI escape codes allows you to change the color or highlighting of the output text. 
+//More information here: https://en.wikipedia.org/wiki/ANSI_escape_code
 #include <cstdlib>
 #include "Input_Validation_Extended.h"
 #include <iostream>
